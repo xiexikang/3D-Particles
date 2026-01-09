@@ -62,10 +62,14 @@ https://vercel.com/xiexikangs-projects/3-d-particles   记得开vpn哦
 - 项目包含多张示例图片与若干 GLB 模型预设名称，便于快速演示不同展示模式。
 - 可根据实际部署环境替换或扩展预设资源。
 
-## 许可与致谢
+## 致谢
 - 致谢：three、@react-three/fiber、@react-three/drei、@react-three/postprocessing 及相关开源生态。
 
 ## 贡献与开发建议
 - 建议在本地环境进行性能测试与调优（粒子数量、着色器参数、Bloom 强度等）。
 - 上传资源时优先使用体积较小的图片与模型，以获得更好的交互帧率与体验。
+
+## 许可证 License
+
+This project is licensed under the MIT License.
 
