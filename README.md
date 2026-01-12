@@ -5,6 +5,9 @@
 ## 预览地址
 https://vercel.com/xiexikangs-projects/3-d-particles   记得开vpn哦
 
+## 博客地址
+https://blog.csdn.net/weixin_42211816/article/details/156084421
+
 ## 特性亮点
 - 支持四种展示模式：随机云海、文本成像、图片成像、GLTF 模型采样。
 - 提供多种动态特效：爆裂回流、星环漩涡、光爆冲击波、黑洞吞噬、瀑布云幕、彩虹换色、风洞回旋、星群聚散、波纹干涉、球壳成像、网格阵列等。
